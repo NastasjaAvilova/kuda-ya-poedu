@@ -1,0 +1,7 @@
+.intro__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 30%;
+  padding: auto;
+}

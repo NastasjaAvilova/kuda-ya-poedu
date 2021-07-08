@@ -1,0 +1,11 @@
+.quotes {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 480px) {
+  .quotes {
+    flex-direction: column;
+  }
+}
