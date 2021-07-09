@@ -1,9 +1,10 @@
 .intro {
-  display: flex;
-  flex-direction: row;
-  max-width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-height: 360px;
+  overflow: hidden;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 130px;
 }
