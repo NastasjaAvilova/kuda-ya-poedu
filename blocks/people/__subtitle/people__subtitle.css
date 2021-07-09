@@ -1,4 +1,12 @@
 .people__subtitle {
-  color: #ffcfa5;
+  font-family: 'Consolas' , Courier, monospace;
+  text-transform: uppercase;
+  color: rgb(255, 205, 173);
   margin: 0 0 36px 0;
+}
+
+@media screen and (max-width: 480px) {
+  .people__subtitle {
+    margin: 30px 0 15px 0;
+  }
 }

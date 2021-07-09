@@ -1,4 +1,6 @@
 .intro__subtitle {
-  color: #ffcfa5;
+  font-family: 'Consolas' , Courier, monospace;
+  text-transform: uppercase;
+  color: rgb(255, 205, 173);
   margin: 0 0 34px 0;
 }

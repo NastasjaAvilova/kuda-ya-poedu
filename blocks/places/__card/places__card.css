@@ -10,7 +10,7 @@
   grid-template-areas: "text image"
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 850px) {
   .places__card {
     display: flex;
     flex-direction: column;
