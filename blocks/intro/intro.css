@@ -7,3 +7,15 @@
   margin-right: auto;
   padding-top: 95px;
 }
+
+@media screen and (max-width:650px){
+  .intro{   
+    grid-template-columns: auto;
+  } 
+}
+
+@media screen and (max-width:490px){
+  .intro{
+    padding-top: 30px;
+  }
+}

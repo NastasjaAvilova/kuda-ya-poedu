@@ -6,3 +6,15 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+@media screen and (max-width:768px){
+  .two-rows{
+    padding-top: 100px;
+  }
+}
+
+@media screen and (max-width:490px){
+  .two-rows{
+    padding-top:80px;
+  }
+}

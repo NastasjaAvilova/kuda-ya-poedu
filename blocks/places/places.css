@@ -3,3 +3,9 @@
   background-color: rgb(242, 242, 242);
   padding-top: 145px;
 }
+
+@media screen and (max-width:490px){
+  .places{
+    padding-top: 85px;
+  }
+}

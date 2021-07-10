@@ -3,3 +3,22 @@
   line-height: 50px;
   font-size: 39px;
 }
+
+@media screen and (max-width:1023px) {
+  .intro__title{
+  font-size: 4vw;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .intro__title{
+  font-size: 5vw;
+  }
+}
+
+@media screen and (max-width:400px){
+  .intro__title{
+    font-size: 21px;
+  }
+  
+}
