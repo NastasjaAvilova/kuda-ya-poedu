@@ -1,10 +1,9 @@
 .intro {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  max-height: 360px;
   overflow: hidden;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 130px;
+  padding-top: 95px;
 }

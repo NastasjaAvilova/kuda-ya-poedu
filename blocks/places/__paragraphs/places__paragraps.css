@@ -1,0 +1,9 @@
+.places__paragraphs {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 80px;
+    line-height: 24px;
+    font-size: 15px;
+    max-width: 400px;
+    gap: 20px;
+}

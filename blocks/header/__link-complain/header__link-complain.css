@@ -1,0 +1,8 @@
+.header__link-complain{
+    color: #000000;
+    text-decoration-line: none;
+}
+.header__link-complain:hover{
+    opacity: .5;
+    text-shadow: #808080 1px 0 10px;
+}

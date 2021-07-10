@@ -1,4 +1,6 @@
 .quote__subtitle {
   margin: 0;
-  max-width: 280px;
+  max-width: 275px;
+  font-size: 16px;
+  line-height: 20px;
 }

@@ -1,5 +1,7 @@
 .people__title {
-  font-size: 45px;
-  max-width: 620px;
+  font-size: 38px;
+  max-width: 560px;
+  padding-top: 35px;
   margin: 0px;
+  line-height: 45px;
 }
