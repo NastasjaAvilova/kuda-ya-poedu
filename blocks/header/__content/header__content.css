@@ -5,6 +5,15 @@
   justify-content: space-between;
   align-items: center;
   margin: auto;
+  letter-spacing: 0.3px;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: 'Consolas' , Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
 }
 
 @media screen and (max-width: 480px) {

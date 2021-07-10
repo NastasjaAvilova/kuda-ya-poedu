@@ -3,4 +3,13 @@
   text-transform: uppercase;
   color: rgb(255, 205, 173);
   margin: 0 0 34px 0;
+  letter-spacing: 0.3px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
 }
